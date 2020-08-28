@@ -1,1 +1,1 @@
-## Buried in Gitlab currently
+## Buried in GitLab currently
